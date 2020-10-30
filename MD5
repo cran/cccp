@@ -1,8 +1,8 @@
-bbbc7640b414459eae57ee571e446199 *DESCRIPTION
-a9493a3a54112e1fbd50a53f482cb573 *NAMESPACE
+d7be8972c0e2f0ade4244a79f6731344 *DESCRIPTION
+22726bf515c7c7c157700189a6498b51 *NAMESPACE
 2c8147cd95b12fe0398cfbeb04ae7767 *R/AllGenerics.R
 6dc5721b4d1c639afebbaa7bab3f63fd *R/cccp.R
-88114a60ef8b4b628852f313ae21ef9a *R/ctrl.R
+685913da8ebd04bef2ee43b8ba5dfe8a *R/ctrl.R
 8ae75123be312fcceb2e3031cd04737c *R/dcp.R
 ad884f15450ae5fb829e184e013428c9 *R/dlp.R
 4a74942c1d603a98b94ae0f4a2a24447 *R/dnl.R
@@ -53,7 +53,7 @@ a8dbdd5c4858d5c726e4ff585398466e *man/Rcpp_CPS-class.Rd
 827cd76a44afe73d9a6c437c573ce00f *man/Rcpp_PDV-class.Rd
 62ec8391775e32e3b0fc9f1818259c68 *man/cccp.Rd
 bda35f48dc0600fa8f900d20ca9e3a9b *man/cps.Rd
-ae183fabd5bd106ea6e4b57d53a5bfc0 *man/ctrl.Rd
+1a53e0ce907c751a9461425824bcf789 *man/ctrl.Rd
 3cc503890a788f160a902fa9ee88a6a8 *man/dcp.Rd
 35d3c9f7aea2efca0f4b70ded739e960 *man/dlp.Rd
 3f0fbf5a09acd8a7ff08bc48e727dfaf *man/dnl.Rd
@@ -75,6 +75,7 @@ deda95fb2d3dab8e2baa6e20b248f59c *src/DNL.cpp
 7cc14aaf4e9b43167d156ac973e01c68 *src/Makevars
 7cc14aaf4e9b43167d156ac973e01c68 *src/Makevars.win
 f8d0b926d433ba6b0abd19fb87ba40b6 *src/Modules.cpp
-f92a6e614f598a7ae5037e2c0d407303 *src/RPP.cpp
+0054168b66eca7bd502d052234c74872 *src/RPP.cpp
+0e67dc26fd6637028484ae59a2d0beb2 *src/RcppExports.cpp
 68d5d60af747f6aab030e91d494aa2b5 *src/SOPS.cpp
 1bd271c97fcf20221b2b8a178af8539d *tests/doRUnit.R
