@@ -1,4 +1,4 @@
-e91563d2b0b35778fdf2bcd36c9ea7c7 *DESCRIPTION
+61e00c5598b1764d29f24fd76616e5ae *DESCRIPTION
 22726bf515c7c7c157700189a6498b51 *NAMESPACE
 2c8147cd95b12fe0398cfbeb04ae7767 *R/AllGenerics.R
 6dc5721b4d1c639afebbaa7bab3f63fd *R/cccp.R
@@ -75,7 +75,7 @@ a75bea05b3f465c3c1a9cedc08541e2a *src/DLP.cpp
 7cc14aaf4e9b43167d156ac973e01c68 *src/Makevars
 7cc14aaf4e9b43167d156ac973e01c68 *src/Makevars.win
 f8d0b926d433ba6b0abd19fb87ba40b6 *src/Modules.cpp
-d71675a4c35c8876c3ddb79aa7f41305 *src/RPP.cpp
+6c62f560d2d12421bee6af07e0c8a614 *src/RPP.cpp
 0e67dc26fd6637028484ae59a2d0beb2 *src/RcppExports.cpp
 68d5d60af747f6aab030e91d494aa2b5 *src/SOPS.cpp
 1bd271c97fcf20221b2b8a178af8539d *tests/doRUnit.R
