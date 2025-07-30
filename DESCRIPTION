@@ -1,6 +1,6 @@
 Package: cccp
-Version: 0.3-1
-Date: 2023-12-09
+Version: 0.3-2
+Date: 2025-07-30
 Title: Cone Constrained Convex Problems
 Authors@R: c(person("Bernhard", "Pfaff", role = c("aut", "cre"), email = "bernhard@pfaffikus.de"), person("Lieven", "Vandenberghe", role = "cph", comment = "copyright holder of cvxopt"), person("Martin", "Andersen", role = "cph", comment = "copyright holder of cvxopt"), person("Joachim", "Dahl", role = "cph", comment = "copyright holder of cvxopt"))
 Maintainer: Bernhard Pfaff <bernhard@pfaffikus.de>
@@ -13,10 +13,10 @@ LinkingTo: Rcpp, RcppArmadillo
 License: GPL (>= 3)
 RcppModules: CPG
 NeedsCompilation: yes
-Packaged: 2023-12-09 17:18:24 UTC; bp
+Packaged: 2025-07-30 21:48:22 UTC; bp
 Author: Bernhard Pfaff [aut, cre],
   Lieven Vandenberghe [cph] (copyright holder of cvxopt),
   Martin Andersen [cph] (copyright holder of cvxopt),
   Joachim Dahl [cph] (copyright holder of cvxopt)
 Repository: CRAN
-Date/Publication: 2023-12-09 17:50:02 UTC
+Date/Publication: 2025-07-30 22:30:02 UTC
